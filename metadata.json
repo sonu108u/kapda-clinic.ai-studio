@@ -1,0 +1,8 @@
+{
+  "name": "Kapda Clinic",
+  "description": "Premium laundry and dry cleaning services website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
